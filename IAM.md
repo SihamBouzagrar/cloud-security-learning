@@ -83,7 +83,8 @@ This is why roles are the **safe default** for apps and services — no hardcode
 - Golden rule: **an explicit Deny always beats an Allow** — no exceptions
 
 ---
-![AWS IAM Architecture Flow](docs/iam-architecture.svg)
+## AWS IAM Architecture
+![AWS IAM Architecture](docs/iam-architecture.png)
 ## 🛡️ The Guiding Principle: Least Privilege
 
 Give every identity **only what it needs** — nothing more.
